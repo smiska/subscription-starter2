@@ -24,6 +24,9 @@
     "supabase:pull": "npx supabase pull"
   },
   "dependencies": {
+    "@builder.io/dev-tools": "^1.0.2",
+    "@builder.io/react": "^3.2.6",
+    "@builder.io/sdk": "^2.2.2",
     "@radix-ui/react-toast": "^1.1.5",
     "@stripe/stripe-js": "2.4.0",
     "@supabase/ssr": "^0.1.0",
